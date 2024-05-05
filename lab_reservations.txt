@@ -1,0 +1,85 @@
+Lab Number: 4
+Location: Location C4
+Capacity: 20
+Reserved on: 3 4 2024 @ 10:30
+
+Lab Number: 5
+Location: Location C5
+Capacity: 20
+Reserved on: 4 5 2024 @ 20:44
+
+Lab Number: 6
+Location: Location C6
+Capacity: 20
+Reserved on: 4 5 2024 @ 20:58
+
+Lab Number: 7
+Location: Location C7
+Capacity: 20
+Reserved on: 3 4 2024 @ 10:30
+
+Lab Number: 1
+Location: Location C1
+Capacity: 20
+Reserved on: 12 12 2024 @ 10:30
+
+Lab Number: 6
+Location: Location C6
+Capacity: 20
+Reserved on: 16 12 2024 @ 10:30
+
+Lab Number: 7
+Location: Location C7
+Capacity: 20
+Reserved on: 20 9 2024 @ 10:30
+
+Lab Number: 4
+Location: Location C4
+Capacity: 20
+Reserved on: 19 9 2024 @ 10:30
+
+Lab Number: 7
+Location: Location C7
+Capacity: 20
+Reserved on: 15 11 2024 @ 10:30
+
+Lab Number: 1
+Location: Location C1
+Capacity: 20
+Reserved on: 15 11 2024 @ 10:30
+
+Lab Number: 3
+Location: Location C3
+Capacity: 20
+Reserved on: 23 12 2024 @ 10:30
+
+Lab Number: 2
+Location: Location C2
+Capacity: 20
+Reserved on: 23 10 2024 @ 10:30
+
+Lab Number: 7
+Location: Location C7
+Capacity: 20
+Reserved on: 7 3 2024 @ 10:30
+
+Lab Number: 5
+Location: Location C5
+Capacity: 20
+Reserved on: 5 10 2024 @ 11:0
+
+Lab Number: 42
+Location: C1
+Capacity: 21
+Reserved on: 14 12 2024 @ 18:0
+
+Lab Number: 25
+Location: C2
+Capacity: 20
+Reserved on: 1 1 2024 @ 8:0
+
+Lab Number: 29
+Location: C2
+Capacity: 15
+Reserved on: 1 1 2024 @ 8:0
+
